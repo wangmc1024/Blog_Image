@@ -1,1 +1,1 @@
-<div style: color:red>Blog Image</div>
+<div aligen="center" style="color:red">Blog Image</div>
