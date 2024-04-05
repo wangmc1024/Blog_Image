@@ -1,1 +1,1 @@
-# Blog_Image
+<div style: color:red>Blog Image</div>
